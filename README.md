@@ -2,7 +2,7 @@
 A modern, user-friendly Windows application that simplifies the process of dual-booting Linux alongside Windows.
 
 ## 📥 Download
-**[Download LinuxGate v0.1.0-beta]()**
+**[Download LinuxGate v0.1.0-beta](https://github.com/felix068/LinuxGate/releases/download/v0.1.0-beta/LinuxGate.zip)**
 
 ## ⚠️ Project Status - FUNCTIONAL BUT UNSTABLE
 **WARNING: This project is functional but NOT RECOMMENDED for production use.**
