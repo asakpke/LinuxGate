@@ -29,4 +29,4 @@ This project is licensed under the GNU General Public License 3.0 - see the [LIC
 - [Rose Pine](https://rosepinetheme.com/) for the color scheme
 - [WPF](https://github.com/dotnet/wpf) for the UI framework
 - Original concept by [MopigamesYT](https://github.com/MopigamesYT)
-- Based on [LinuxGate](https://github.com/ekimiateam/linuxgate) project
+- Based on [Libertix](https://github.com/ekimiateam/libertix) project
