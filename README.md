@@ -30,3 +30,7 @@ This project is licensed under the GNU General Public License 3.0 - see the [LIC
 - [WPF](https://github.com/dotnet/wpf) for the UI framework
 - Original concept by [MopigamesYT](https://github.com/MopigamesYT)
 - Based on [Libertix](https://github.com/ekimiateam/libertix) project
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=felix068/LinuxGate&type=date&legend=top-left)](https://www.star-history.com/#felix068/LinuxGate&type=date&legend=top-left)
