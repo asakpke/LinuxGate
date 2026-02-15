@@ -12,6 +12,21 @@ Server sometime fails to download files, so unzip & copy paste to the same Linux
 Also if you like to download Linux Mint before starting the LinuxGate installation, then copy/paste it as mint.iso to the same folder.
 ```
 
+## 🚀 Installation
+1. **Prepare Files:** Download `LinuxGate.zip`, the **Installation Files**, and **Linux Mint**. Rename the Linux Mint ISO to `mint.iso` and place it in the same folder as `LinuxGate.exe`.
+2. **Run Installer:** Launch `LinuxGate.exe` as an administrator.
+3. **Configure:** Follow the on-screen instructions to choose Linux Mint, set your partition size, and create your username/password.
+4. **Initial Reboot:** Restart your system and select **Install Linux** from the boot menu.
+5. **Finalize:** Let the process complete, then restart one final time to finish the setup.
+
+## 🗑️ Uninstallation
+1.  **Delete Linux Partition:** Use Windows Disk Management to delete the Linux partition.
+2.  **Extend C Drive:** Extend your C drive to reclaim the unallocated space.
+3.  **Remove GRUB Bootloader (if present):** If the GRUB bootloader remains and causes boot issues, you can: 
+    *   Adjust the boot order in your BIOS to prioritize Windows Boot Manager. 
+    *   Use Windows recovery tools (e.g., from a Windows installation media) to repair the bootloader. 
+    *   Utilize third-party tools like EasyBCD (if compatible) to manage and repair your boot entries.
+
 ## ⚠️ Project Status - FUNCTIONAL BUT UNSTABLE
 **WARNING: This project is functional but NOT RECOMMENDED for production use.**
 
