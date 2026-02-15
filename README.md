@@ -1,4 +1,4 @@
-# LinuxGate
+# LinuxGate 🐧
 A modern, user-friendly Windows application that simplifies the process of dual-booting Linux alongside Windows.
 
 ## 📥 Download
@@ -38,23 +38,23 @@ The software is now working and can successfully set up a dual-boot environment.
 
 felix068 is actively working on UEFI support and stability improvements. Contributions and bug reports are welcome!
 
-## Project History
+## 📜 Project History
 This project was initially started by [MopigamesYT](https://github.com/MopigamesYT) but was abandoned and left incomplete (non-functional). 
 
 LinuxGate is based on the [LinuxGate project](https://github.com/ekimiateam/linuxgate), which was developed by felix068 during a company internship. The LinuxGate project was also left unfinished and non-functional.
 
 This version includes a complete rework by felix068 aimed at creating a stable, functional dual-boot installer.
 
-## License
+## 📄 License
 This project is licensed under the GNU General Public License 3.0 - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## 🙏 Acknowledgments
 - [Rose Pine](https://rosepinetheme.com/) for the color scheme
 - [WPF](https://github.com/dotnet/wpf) for the UI framework
 - Original concept by [MopigamesYT](https://github.com/MopigamesYT)
 - Based on [Libertix](https://github.com/ekimiateam/libertix) project
 - Forked from [felix068/LinuxGate](https://github.com/felix068/LinuxGate)
 
-## Star History
+## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=asakpke/LinuxGate&type=date&legend=top-left)](https://www.star-history.com/#asakpke/LinuxGate&type=date&legend=top-left)
