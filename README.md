@@ -22,10 +22,10 @@ Also if you like to download Linux Mint before starting the LinuxGate installati
 ## 🗑️ Uninstallation
 1.  **Delete Linux Partition:** Use Windows Disk Management to delete the Linux partition.
 2.  **Extend C Drive:** Extend your C drive to reclaim the unallocated space.
-3.  **Remove GRUB Bootloader (if present):** If the GRUB bootloader remains and causes boot issues, you can: 
-    *   Adjust the boot order in your BIOS to prioritize Windows Boot Manager. 
+3.  **Fix GRUB Bootloader:** 
+    *   Adjust the boot order in your BIOS to prioritize Windows Boot Manager.
+    *   Utilize third-party tools like EasyBCD to reinstall Windows bootloader.
     *   Use Windows recovery tools (e.g., from a Windows installation media) to repair the bootloader. 
-    *   Utilize third-party tools like EasyBCD (if compatible) to manage and repair your boot entries.
 
 ## ⚠️ Project Status - FUNCTIONAL BUT UNSTABLE
 **WARNING: This project is functional but NOT RECOMMENDED for production use.**
