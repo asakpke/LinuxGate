@@ -6,6 +6,12 @@ A modern, user-friendly Windows application that simplifies the process of dual-
 
 **[Download LinuxGate Installation Files Excluding mint.iso](https://github.com/asakpke/LinuxGate/releases/download/v0.1.1-beta/Installation.Files.Excluding.mint.iso.zip)**
 
+```
+Why download installation files?
+Server sometime fails to download files, so unzip & copy paste to the same LinuxGate.exe folder. 
+Also if you like to download Linux Mint before starting the LinuxGate installation, then copy/paste it as mint.iso to the same folder.
+```
+
 ## ⚠️ Project Status - FUNCTIONAL BUT UNSTABLE
 **WARNING: This project is functional but NOT RECOMMENDED for production use.**
 
@@ -22,7 +28,7 @@ This project was initially started by [MopigamesYT](https://github.com/Mopigames
 
 LinuxGate is based on the [LinuxGate project](https://github.com/ekimiateam/linuxgate), which was developed by felix068 during a company internship. The LinuxGate project was also left unfinished and non-functional.
 
-This version represents a complete rework by felix068 aimed at creating a stable, functional dual-boot installer.
+This version includes a complete rework by felix068 aimed at creating a stable, functional dual-boot installer.
 
 ## License
 This project is licensed under the GNU General Public License 3.0 - see the [LICENSE](LICENSE) file for details.
